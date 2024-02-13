@@ -148,13 +148,26 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 
 
-## Personal Fabrication {background-image="figures/Example-7.png"  background-size="50%" background-position="100% 50%"} 
+## Personal Fabrication {background-image="figures/Example-7.png"  background-size="60%" background-position="100% 50%"} 
 
 *Products for a market of **one person***
 
 <br><br>
 
 ### Fablab and Music
+
+
+## Personal Fabrication {background-image="figures/Example-8.png"  background-size="60%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+
+### Fablab and Music
+
+Source: [Matt Keeter - Fab Boombox](https://fab.cba.mit.edu/classes/863.11/people/matthew.keeter/fab_boombox/index.html)
+
 
 
 
