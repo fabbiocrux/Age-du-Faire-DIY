@@ -1,7 +1,12 @@
 ---
 title: "Age du Faire et du Do-It-Youself (DIY)"
-author: Fabio A. Cruz
+author: 
+  - "MdC. Fabio Cruz"
 subtitle: 'An introduction'
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+date: 13-Jan-2023
+
 format:
   revealjs:
     slide-number: c/t
@@ -22,51 +27,156 @@ format:
     number-sections: false
     fig-align: center
     code-copy: true        
-    header-logo: "../assets/img/logos/UL.png"    
+    header-logo: "assets/img/logos/UL.png"    
     #subtitle-as-header: true
     sc-sb-title: false
     chalkboard: true
-#use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
-filters:
-  - reveal-header
-  - reveal-auto-agenda
-#slide-level: 3
-auto-agenda:
-  bullets: numbered
-  heading: Agenda for today
-
+# #use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
+# filters:
+#   - reveal-header
+#   - reveal-auto-agenda
+# #slide-level: 3
+# auto-agenda:
+#   bullets: numbered
+#   heading: Agenda for today
 ---
 
 
-## Planning
+# Planning
 
-Jan 14, 2021 <br>
+## Planning
 
 | **Time**          | **Activity**                |
 |:--------------|:------------------------|
-| 13:45 - 14:15 | Introduction to LF2L and Key concepts |
-| 14:15 - 15:00 | Design of the your obj |
+| 13:45 - 14:15 | Introduction to LF2L and key concepts |
+| 14:15 - 15:00 | **Design** |
 | 15:00 - 15:20 | *Break* 🍏        |
-| 15:20 - 16:00 |  Fabrication |
-| 16:00 - 16:45 |  Dcoumentation of FabManager |
+| 15:20 - 16:00 |  **Fabricate** |
+| 16:00 - 16:45 |  **Documentate** |
+
+
+
+## Goal of the day
+
+
+::: {.column width="30%"}
+
+### Design
+
+![](figures/Design.png){width="90%" fig-align="center"} 
+
+[https://inkscape.org/](https://inkscape.org/)
+:::
+::: {.column width="30%"}
+### Fabricate
+![](figures/2022-04-01-gf.jpg){width="100%" fig-align="center"} 
+
+[https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
+:::
+::: {.column width="30%"}
+
+### Documentation
+
+![](figures/Documentate.png){width="100%" fig-align="center"} 
+:::
 
 
 
 
 
-# Learning goal
 
-## What is the meaning of Engineering for you ?
+# Engineering and  'Âge du Faire / DIY'
 
+## What is the meaning of "Engineer" for you ?
 
---
+::: {.fragment}
 
 The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ingeniare** ("to contrive, devise") and **Ingenium** ("cleverness").
 
+:::
+
+
+
+## Fab Lab and how to do (almost) anything
+
+
+:::aside
+Source: [https://cba.mit.edu/classes/](https://cba.mit.edu/classes/)
+:::
+
+## Unleash your creativity in a Fab Lab. Feb 2006
+
+<div style="max-width:1400px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+Source: https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab
+
+
+
+## What is a Fablab?
+
+![](figures/Definition-01.png){width="90%" fig-align="center"} 
+
+Source: [https://fab.cba.mit.edu/about/charter/](https://fab.cba.mit.edu/about/charter/)
+
+
+## Personal Fabrication {background-image="figures/Example-1.png"  background-size="40%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br> <br>
+Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](https://www.ladepeche.fr/article/2018/02/24/2748525-airbus-fablab-fabrique-prothese-high-tech.html)
+
+
+## Personal Fabrication {background-image="figures/Example-2.png"  background-size="40%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab et Handicap: <br> [https://myhumankit.org/](https://myhumankit.org/)
+
+
+## Personal Fabrication {background-image="figures/Example-3.png"  background-size="50%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab et Lowtech: <br> [https://lowtechlab.org/fr](https://lowtechlab.org/fr)
+
+
+
+## Personal Fabrication {background-image="figures/Example-3.png"  background-size="50%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab et Lowtech: <br> [https://lowtechlab.org/fr](https://lowtechlab.org/fr)
+
+* Version English: [https://www.appropedia.org/](https://www.appropedia.org/)
+
+
+
+
+
+
+
+
+
+
 # Lorraine Fab Living Lab
 
+![](figures/LF2L-Vertical.jpg){width="250" fig-align="center"} 
 
-## Lorraine Fab Living Lab
+
+## Materialize *Citizen Innovation*?
+
+
+![](figures/Materialize-Innovation-00.png)
+
+
+## Role of LF2L
 
 ::: {.columns}
 ::: {.column }
@@ -83,20 +193,77 @@ The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ing
 ::: 
 
 
-## Materialize *Citizen Innovation*?
-
-
-![](figures/Materialize-Innovation-00.png)
-
-
-# Fab Lab and how to do (almost) anything
 
 
 
-## Neil Gershenfeld
-
-<div style="max-width:1500px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+## Why Prototyping Matters ? {.center}
 
 
+**"Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. *But everybody will tell you what’s wrong with it*."** <br>
+David Kelly, IDEO
+
+
+
+
+
+## What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+## What is Prototyping ?
+
+“The **process of creating** usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+
+![](figures/process-explained-1.jpg){fig-align="center"}
+
+
+
+## What is Prototyping ?
+
+“The **process of creating** usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+
+![](figures/prototyping-01.png){fig-align="center"}
+
+
+## What is Prototyping ?
+
+“The **process of creating** usable artifacts at a **variety of fidelities of completion**, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+
+![](figures/prototyping-02.png){fig-align="center"}
+
+
+
+## What is Prototyping ?
+
+“The **process of creating** usable artifacts at a **variety of fidelities of completion**, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+<br>
+
+::: {.columns}
+::: {.column width="20%"}
+
+- Representation
+- Precision
+- Interactivity
+- Evolution
+
+:::
+::: {.column width="80%"}
+![Dyson](figures/prototyping-03.png){fig-align="center"}
+
+
+:::
+:::
+
+
+
+## What is a Prototype? {.center}
+
+> We define a prototype as a concrete representation of part or all of an interactive system. **A prototype is a tangible artifact, not an abstract description that requires interpretation**. Designers, as well as managers, developers, customers and end users, can use these artifacts to envision and reflect upon the final system.”
 
 # TP: Design a recycled totem
+
+

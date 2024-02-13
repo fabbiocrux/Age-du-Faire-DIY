@@ -1,0 +1,76 @@
+---
+title: "Travail Pratique : Conception et Fabrication d'un Objet Totem"
+subtitle: "TP1: Introduction à l'Âge du faire et DIY"
+#abstract-title: 'Objectif'
+#abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
+format:
+  pdf:
+    #documentclass: article
+    block-headings: false
+    toc: false 
+    geometry:
+     - top=25mm
+     - left=20mm
+     - bottom=25mm
+     - right=20mm
+    number-sections: true
+    colorlinks: true    
+    include-in-header:
+      - text: |
+          \usepackage{tikz}
+          \usepackage{fancyhdr}
+          \pagestyle{fancy}
+          \fancyhead[R]{ENSGSI 2AP - 2023/2024}\fancyfoot[L]{Fabio CRUZ}
+          \fancyfoot[C]{\thepage}
+          \fancyfoot[R]{ENSGSI}
+          \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
+          \renewcommand{\abstractname}{\vspace{-1.5cm} Objectif}
+---
+
+
+\thispagestyle{fancy}
+
+
+\vspace{-1.5cm}
+::: {.callout-tip}
+## **Objectif**
+
+Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse.
+:::
+
+
+# Instructions :
+
+1. **Conception à la Main :** Dessinez à la main un objet totem "unique". L'objectif est de laisser libre cours à votre créativité et d'imaginer un objet qui représente une signification ou une identité particulière.
+
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) rectangle (10,10) node[pos=.5] {};
+\end{tikzpicture}
+\end{center}
+
+
+
+2. **Conception Numérique :** Utilisez un logiciel de dessin vectoriel tel que *Inkscape* pour numériser votre dessin. Assurez-vous de respecter les dimensions et les proportions de votre dessin manuel.
+
+3. **Préparation pour la Fabrication :** Connectez-vous au portail [https://fabmanager.lf2l.fr](https://fabmanager.lf2l.fr) et suivez les instructions spécifiques pour utiliser la découpe laser. Assurez-vous de comprendre les consignes de sécurité et les paramètres de découpe appropriés.
+
+4. **Fabrication du Moule :** Utilisez la découpe laser pour fabriquer votre moule en suivant les spécifications de conception que vous avez créées. Veillez à tester la compatibilité de votre moule avec la machine Holipresse pour garantir des résultats optimaux.
+
+5. **Documentation du Projet :** Documentez toutes les étapes de votre projet sur Fabmanager. Incluez des descriptions détaillées de votre processus de conception, de fabrication et de test. Ajoutez des images et des vidéos pour illustrer votre travail et expliquer vos choix de conception.
+Conseils :
+
+
+::: {.callout-important}
+
+- Prenez le temps de réfléchir à la conception de votre objet totem. Pensez à son utilisation potentielle et à la manière dont il peut représenter visuellement une idée ou une identité.
+
+- Lors de la conception numérique, assurez-vous que votre dessin est net et précis pour faciliter la fabrication ultérieure.
+
+- Avant de procéder à la fabrication finale, effectuez des tests préliminaires pour vous assurer que votre moule fonctionne correctement avec la machine Holipresse.
+
+- Soyez attentif à la documentation de votre projet. Une documentation complète et bien présentée facilitera la compréhension de votre processus par les autres et démontrera votre compréhension du projet dans son ensemble.
+
+- N'hésitez pas à poser des questions si certains points nécessitent des éclaircissements supplémentaires.
+
+:::
