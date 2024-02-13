@@ -126,6 +126,8 @@ Source: [https://fab.cba.mit.edu/about/charter/](https://fab.cba.mit.edu/about/c
 <br> <br>
 Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](https://www.ladepeche.fr/article/2018/02/24/2748525-airbus-fablab-fabrique-prothese-high-tech.html)
 
+[https://www.facebook.com/PrintMyLeg/](https://www.facebook.com/PrintMyLeg/)
+
 
 ## Personal Fabrication {background-image="figures/Example-2.png"  background-size="40%" background-position="100% 50%"} 
 
@@ -133,7 +135,7 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 <br><br>
 
-### Fablab et Handicap: <br> [https://myhumankit.org/](https://myhumankit.org/)
+### Fablab and Handicap: <br> [https://myhumankit.org/](https://myhumankit.org/)
 
 
 ## Personal Fabrication {background-image="figures/Example-3.png"  background-size="50%" background-position="100% 50%"} 
@@ -142,7 +144,17 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 <br><br>
 
-### Fablab et Lowtech: <br> [https://lowtechlab.org/fr](https://lowtechlab.org/fr)
+### Fablab and Music: <br> [https://lowtechlab.org/fr](https://lowtechlab.org/fr)
+
+
+
+## Personal Fabrication {background-image="figures/Example-7.png"  background-size="50%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab and Music
 
 
 
@@ -158,8 +170,38 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 
 
+## Personal Fabrication {background-image="figures/Example-4.png"  background-size="50%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab et Fashion: <br> [https://class.textile-academy.org/](https://class.textile-academy.org/classes/2023-24/)
+
+![](figures/Joins.jpg){width="100" fig-align="left"} 
+
+## Personal Fabrication {background-image="figures/Example-5.png"  background-size="50%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab and Agriculture: <br> [https://www.latelierpaysan.org/](https://www.latelierpaysan.org/)
 
 
+
+## Personal Fabrication {background-image="figures/Example-6.png"  background-size="50%" background-position="100% 50%"} 
+
+*Products for a market of **one person***
+
+<br><br>
+
+### Fablab and Architecure: <br> [Fablab House Barcelone](https://archello.com/project/the-fab-lab-house)
+
+
+
+
+## New approch for engineering... {.center} 
 
 
 
@@ -167,7 +209,16 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 # Lorraine Fab Living Lab
 
-![](figures/LF2L-Vertical.jpg){width="250" fig-align="center"} 
+![](figures/LF2L-Vertical.jpg){width="200" fig-align="center"} 
+
+
+## Before 
+
+![](figures/Fablab-01.png){width="200" fig-align="center"} 
+
+## Before 
+
+![](figures/history-00.png ){width="200" fig-align="center"} 
 
 
 ## Materialize *Citizen Innovation*?
@@ -178,19 +229,18 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 ## Role of LF2L
 
-::: {.columns}
-::: {.column }
-
-![](figures/LF2L-Vertical.jpg){width="350" fig-align="center"} 
-
 **Research platform for prospective assessment of innovative usages**
 
-:::
+<br>
 
-::: {.column}
+![](figures/Methodology-02.png){width="350" fig-align="center"} 
 
-:::
-::: 
+
+
+
+## Prototyping  ... Why it Matters ? {.center}
+
+ 
 
 
 
@@ -198,9 +248,17 @@ Source: <br> [Avec Airbus et un fablab, il fabrique sa prothèse high-tech](http
 
 ## Why Prototyping Matters ? {.center}
 
+::: {.columns}
+::: {.column width="70%"}
+**"Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. *But everybody will tell you what’s wrong with it*."** 
+:::
+::: {.column width="30%"}
+![](figures/David-kelley.jpeg)
 
-**"Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. *But everybody will tell you what’s wrong with it*."** <br>
 David Kelly, IDEO
+:::
+:::
+
 
 
 
@@ -221,7 +279,7 @@ David Kelly, IDEO
 
 ## What is Prototyping ?
 
-“The **process of creating** usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+“The process of creating **usable artifacts** at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
 
 
 ![](figures/prototyping-01.png){fig-align="center"}
@@ -229,7 +287,7 @@ David Kelly, IDEO
 
 ## What is Prototyping ?
 
-“The **process of creating** usable artifacts at a **variety of fidelities of completion**, in order to answer design questions and communicate design ideas; with users in the context of use.”
+“The process of creating usable artifacts at a **variety of fidelities of completion**, in order to answer design questions and communicate design ideas; with users in the context of use.”
 
 
 ![](figures/prototyping-02.png){fig-align="center"}
@@ -238,7 +296,7 @@ David Kelly, IDEO
 
 ## What is Prototyping ?
 
-“The **process of creating** usable artifacts at a **variety of fidelities of completion**, in order to answer design questions and communicate design ideas; with users in the context of use.”
+“The process of creating usable artifacts at a variety of fidelities of completion, **in order to answer design questions** and communicate design ideas; with users in the context of use.”
 
 <br>
 
@@ -259,11 +317,36 @@ David Kelly, IDEO
 :::
 
 
+## What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and **communicate design ideas**; with users in the context of use.”
+
+<br>
+
+![](figures/prototyping-04.png){fig-align="center"}
+
+
+## What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; **with users in the context of use.**”
+
+<br>
+
+![](figures/prototyping-05.jpg){fig-align="center"}
+
+
 
 ## What is a Prototype? {.center}
 
-> We define a prototype as a concrete representation of part or all of an interactive system. **A prototype is a tangible artifact, not an abstract description that requires interpretation**. Designers, as well as managers, developers, customers and end users, can use these artifacts to envision and reflect upon the final system.”
+We define a prototype as a concrete representation of part or all of an interactive system. 
 
-# TP: Design a recycled totem
+**A prototype is a tangible artifact, not an abstract description that requires interpretation**. 
+
+Designers, as well as managers, developers, customers and end users, can use these artifacts to envision and reflect upon the final system.”
+
+
+## Questions? {.center}
+
+# TP: Design your prototype
 
 
