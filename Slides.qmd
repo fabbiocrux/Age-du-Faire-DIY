@@ -171,17 +171,6 @@ Source: [Matt Keeter - Fab Boombox](https://fab.cba.mit.edu/classes/863.11/peopl
 
 
 
-## Personal Fabrication {background-image="figures/Example-3.png"  background-size="50%" background-position="100% 50%"} 
-
-*Products for a market of **one person***
-
-<br><br>
-
-### Fablab et Lowtech: <br> [https://lowtechlab.org/fr](https://lowtechlab.org/fr)
-
-* Version English: [https://www.appropedia.org/](https://www.appropedia.org/)
-
-
 
 ## Personal Fabrication {background-image="figures/Example-4.png"  background-size="50%" background-position="100% 50%"} 
 
