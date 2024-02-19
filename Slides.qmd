@@ -42,6 +42,11 @@ format:
 ---
 
 
+```{r, include=FALSE}
+#install.packages("countdown")
+library(countdown)
+```
+
 # Planning
 
 ## Planning
@@ -352,10 +357,67 @@ Designers, as well as managers, developers, customers and end users, can use the
 # TP: Design your prototype
 
 
-1. DIY some tutorials on Inkscape on 🎥 Youtube
 
-- [https://www.youtube.com/watch?v=GSGaY0-4iik](https://www.youtube.com/watch?v=GSGaY0-4iik)
-- [https://www.youtube.com/watch?v=z0XITUisezE](https://www.youtube.com/watch?v=z0XITUisezE)
 
-There are others. It's up to you 💪
+## Step 1: Dessinez votre objet
+
+
+![](figures/Design.png){width="80%" fig-align="center"}
+
+
+```{r echo=FALSE}
+countdown(minutes = 20, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+## Step 2: Download and install `Inkscape`
+
+
+![[https://inkscape.org/](https://inkscape.org/)](figures/Inkscape-00.png){width="80%" fig-align="center"}
+
+
+```{r echo=FALSE}
+countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
+```
+
+
+
+## Step 3: Import and adjust the document 
+
+The size needs to be $100x100~mmm$ max
+
+![](figures/Inkscape-01.png){width="80%" fig-align="center"}
+
+
+
+## Step 4: Crop your image
+
+![](figures/Inkscape-02.png){width="80%" fig-align="center"}
+
+
+## Step 4: Vectorize your image 
+
+![](figures/Inkscape-03.png){width="80%" fig-align="center"}
+
+:::aside
+Additional DIY 🎥 Youtube tutorials if you need:
+
+- [https://youtube.com/watch?v=aVPV6AtjGBg](https://youtube.com/watch?v=aVPV6AtjGBg)
+- [https://www.youtube.com/watch?v=i6s_iOVIxUA](https://www.youtube.com/watch?v=i6s_iOVIxUA)
+
+:::
+
+## Step 5: Prepare your image for laser-cut
+
+- Red color : Cutting
+- Blue color: graving
+
+![](figures/Inkscape-04.png){width="80%" fig-align="center"}
+
+## Step 6: Connect to Fabmanager
+
+![](figures/fabmanager-00.png){width="80%" fig-align="center"}
+
+
+
 
