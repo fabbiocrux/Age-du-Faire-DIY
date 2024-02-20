@@ -359,7 +359,7 @@ Designers, as well as managers, developers, customers and end users, can use the
 
 
 
-## Step 1: Dessinez votre objet
+## Step 1: Draw you totem
 
 
 ![](figures/Design.png){width="80%" fig-align="center"}
@@ -416,8 +416,17 @@ Additional DIY 🎥 Youtube tutorials if you need:
 
 ## Step 6: Connect to Fabmanager
 
+[https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
+
 ![](figures/fabmanager-00.png){width="80%" fig-align="center"}
 
 
+## Exercise 2: Vectorize your photo
 
+![](figures/Inkscape-05.png){width="70%" fig-align="center"}
+
+
+:::{.aside}
+Tutorial 🎥 Youtube: [https://www.youtube.com/watch?v=wiqUrzzHszI&t=690s](https://www.youtube.com/watch?v=wiqUrzzHszI&t=690s)
+:::
 
