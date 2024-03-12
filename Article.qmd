@@ -1,0 +1,19 @@
+---
+title: "My document"
+format:
+  pdf:
+    documentclass: article
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+
+# Title
+
+1. 1. first
+2. second
+3. third
+
+
+

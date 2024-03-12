@@ -1,0 +1,62 @@
+---
+title: "Esquisse votre concept"
+subtitle: "TP1: Introduction à l'Âge du faire et DIY"
+#abstract-title: 'Objectif'
+#abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
+format:
+  pdf:
+    #documentclass: article
+    block-headings: false    
+    toc: false 
+    geometry:
+     - top=25mm
+     - left=20mm
+     - bottom=25mm
+     - right=20mm     
+    number-sections: false
+    colorlinks: true    
+    include-in-header:
+      - text: |
+          \usepackage{tikz}
+          \usepackage{fancyhdr}
+          \pagestyle{fancy}          
+          \fancyhead[R]{ENSGSI 2AP - 2023/2024}
+          \fancyhead[C]{TP L'Âge du Faire et du DIY}
+          \fancyhead[L]{\includegraphics[width=2cm]{figures/ENSGSI.png}}
+          \fancyfoot[L]{\includegraphics[width=2cm]{figures/ENSGSI.png}}
+          \fancyfoot[C]{TP Âge du Faire et du DIY}
+          \fancyfoot[R]{ENSGSI}
+          \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
+          \renewcommand{\abstractname}{\vspace{-5cm}}
+      - file: titulo.tex    
+---
+
+
+\thispagestyle{fancy}
+
+
+# Dessinez le concept
+
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) rectangle (10,10) node[pos=.5] {};
+\end{tikzpicture}
+\end{center}
+
+\noindent\rule{\textwidth}{1pt}
+
+\vspace{2cm}
+
+# Ecrivez le concept
+
+\begin{tabular}{l @{}}
+	\noindent\rule{\textwidth}{1pt} \\
+	\noindent\rule{\textwidth}{1pt} \\
+	\noindent\rule{\textwidth}{1pt} \\
+	\noindent\rule{\textwidth}{1pt}\\
+	\noindent\rule{\textwidth}{1pt}\\
+  \noindent\rule{\textwidth}{1pt}\\
+  \noindent\rule{\textwidth}{1pt}\\
+\noindent\rule{\textwidth}{1pt}\\
+\end{tabular}
+
