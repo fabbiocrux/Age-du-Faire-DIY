@@ -47,7 +47,7 @@ format:
 
 \vspace{2cm}
 
-# Ecrivez le concept
+# Décrivez le concept
 
 \begin{tabular}{l @{}}
 	\noindent\rule{\textwidth}{1pt} \\
