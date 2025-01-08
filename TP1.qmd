@@ -1,6 +1,6 @@
 ---
 title: "Travail Pratique : Conception et Fabrication du logo de votre enterprise"
-subtitle: "TP1: Introduction à l'Âge du faire et DIY"
+#subtitle: "TP1: Introduction à l'Âge du faire et DIY"
 #abstract-title: 'Objectif'
 #abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
 format:
@@ -20,7 +20,7 @@ format:
           \usepackage{tikz}
           \usepackage{fancyhdr}
           \pagestyle{fancy}          
-          \fancyhead[R]{ENSGSI 2AP - 2023/2024}
+          \fancyhead[R]{ENSGSI - 2023/2024}
           \fancyhead[L]{\includegraphics[width=2cm]{figures/ENSGSI.png}}
           \fancyfoot[L]{Fabio CRUZ}
           \fancyfoot[C]{\thepage}
