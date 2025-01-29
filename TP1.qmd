@@ -20,13 +20,14 @@ format:
           \usepackage{tikz}
           \usepackage{fancyhdr}
           \pagestyle{fancy}          
-          \fancyhead[R]{ENSGSI - 2023/2024}
+          \fancyhead[R]{ENSGSI - 2024/2025}
+          \fancyhead[C]{ENSGSI - 2024/2025}
           \fancyhead[L]{\includegraphics[width=2cm]{figures/ENSGSI.png}}
+          
           \fancyfoot[L]{Fabio CRUZ}
           \fancyfoot[C]{\thepage}
           \fancyfoot[R]{ENSGSI}
           \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
-          \renewcommand{\abstractname}{\vspace{-1.5cm} Objectif}
 ---
 
 

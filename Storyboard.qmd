@@ -1,34 +1,33 @@
 ---
 title: "Esquisse votre concept"
 subtitle: "TP1: Introduction à l'Âge du faire et DIY"
+
 #abstract-title: 'Objectif'
 #abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
 format:
   pdf:
-    #documentclass: article
+    documentclass: article
+    #classoption: landscape
     block-headings: false    
     toc: false 
     geometry:
-     - top=25mm
+     - top=20mm
      - left=20mm
-     - bottom=25mm
+     - bottom=20mm
      - right=20mm     
     number-sections: false
-    colorlinks: true    
+    colorlinks: true
+    template-partials: 
+     - assets/before-body.tex        
     include-in-header:
       - text: |
           \usepackage{tikz}
+          \definecolor{gsi_violet}{RGB}{102, 36, 131}
           \usepackage{fancyhdr}
           \pagestyle{fancy}          
-          \fancyhead[R]{ENSGSI 2AP - 2023/2024}
-          \fancyhead[C]{TP L'Âge du Faire et du DIY}
-          \fancyhead[L]{\includegraphics[width=2cm]{figures/ENSGSI.png}}
-          \fancyfoot[L]{\includegraphics[width=2cm]{figures/ENSGSI.png}}
-          \fancyfoot[C]{TP Âge du Faire et du DIY}
-          \fancyfoot[R]{ENSGSI}
+          \fancyhead{\includegraphics[width=2cm]{figures/ENSGSI.png} \qquad \textbf{\textcolor{gsi_violet}{Prénom NOM:}} \dotfill }
+          \fancyfoot{\includegraphics[width=2cm]{figures/ENSGSI.png} \qquad \textbf{\textcolor{gsi_violet}{Prénom NOM:}} \dotfill }          
           \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
-          \renewcommand{\abstractname}{\vspace{-5cm}}
-      - file: titulo.tex    
 ---
 
 
@@ -39,24 +38,62 @@ format:
 
 \begin{center}
 \begin{tikzpicture}
-\draw (0,0) rectangle (10,10) node[pos=.5] {};
+\draw (0,0) rectangle (12,7) node[pos=.5] {};
 \end{tikzpicture}
 \end{center}
 
+\vfill
+
 \noindent\rule{\textwidth}{1pt}
 
-\vspace{2cm}
+\vfill
 
 # Décrivez le concept
 
-\begin{tabular}{l @{}}
-	\noindent\rule{\textwidth}{1pt} \\
-	\noindent\rule{\textwidth}{1pt} \\
-	\noindent\rule{\textwidth}{1pt} \\
-	\noindent\rule{\textwidth}{1pt}\\
-	\noindent\rule{\textwidth}{1pt}\\
-  \noindent\rule{\textwidth}{1pt}\\
-  \noindent\rule{\textwidth}{1pt}\\
-\noindent\rule{\textwidth}{1pt}\\
-\end{tabular}
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) rectangle (12,7) node[pos=.5] {};
+\end{tikzpicture}
+\end{center}
+
+\vfill
+
+\newpage
+
+
+\noindent\rule{\textwidth}{1pt}
+\begin{center}
+\sffamily\Large\textbf{Esquisse votre concept}  
+
+\sffamily\normalsize\textbf{TP1: Introduction à l'Âge du faire et DIY}
+
+\end{center}
+\noindent\rule{\textwidth}{1pt}
+
+
+
+
+# Décrivez le concept
+
+
+
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) rectangle (12,7) node[pos=.5] {};
+\end{tikzpicture}
+\end{center}
+
+\vfill
+
+# Dessinez le concept
+
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) rectangle (12,7) node[pos=.5] {};
+\end{tikzpicture}
+\end{center}
+
+\vfill
+
+
 
