@@ -70,6 +70,11 @@ library(countdown)
 
 ## but first, lets *'esquisse'*
 
+Option 🤩 : **Un produit ou service dont vous rêvez d’avoir à l’avenir ?**
+
+Option 😨 : **Un produit ou service que vous ne voudriez pas du tout avoir à l’avenir ?**
+
+
 ![](figures/Exquisse.png){width="50%" fig-align="center"} 
 
 
