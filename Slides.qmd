@@ -68,7 +68,7 @@ library(countdown)
 
 
 
-## but first, lets *'esquisse'*
+## but first, lets *'esquissé'*
 
 Option 🤩 : **Un produit ou service dont vous rêvez d’avoir à l’avenir ?**
 
