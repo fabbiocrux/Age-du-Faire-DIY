@@ -1,5 +1,5 @@
 ---
-title: "Age du Faire et du Do-It-Youself (DIY)"
+title: "Age du Faire et du Do-It-Yourself (DIY)"
 author: 
   - "MdC. Fabio Cruz"
 subtitle: 'An introduction'
@@ -41,6 +41,9 @@ library(countdown)
 ```
 
 # Planning
+
+
+
 
 ## Goal of the day
 
@@ -367,13 +370,6 @@ Vous devez etre conneztez au Réseaux: **eduroam**
 
 # Engineering and  'Âge du Faire / DIY'
 
-## What is the meaning of "Engineer" for you ?
-
-::: {.fragment}
-
-The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ingeniare** ("to contrive, devise") and **Ingenium** ("cleverness").
-
-:::
 
 
 
