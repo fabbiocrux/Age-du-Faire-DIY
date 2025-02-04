@@ -1,5 +1,5 @@
 ---
-title: "Travail Pratique : Conception et Fabrication du logo de votre enterprise"
+title: "Travail Pratique : Conception et Fabrication d'un objet"
 #subtitle: "TP1: Introduction à l'Âge du faire et DIY"
 #abstract-title: 'Objectif'
 #abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
@@ -36,15 +36,14 @@ format:
 \thispagestyle{fancy}
 
 
-::: {.callout-tip}
-## **Objectif**
-**Vous êtes entrepreneur.e**. Donc, L'objectif de cet exercice est de concevoir une petite lampe personalisé. 
-La lampe doit être distinctive et mémorable. 
+::: {.callout-tip title="Objectif"}
+**Vous êtes entrepreneur(e).** L'objectif de cet exercice est donc de concevoir un objet personnalisée.
+Il doit être distinctive et mémorable.
 :::
 
 # Instructions :
 
-**1. Dessinez le logo à la mains:** 
+**1. Dessinez le prototype à la mains:** 
 
 \begin{center}
 \begin{tikzpicture}
@@ -56,5 +55,12 @@ La lampe doit être distinctive et mémorable.
 2. **Conception Numérique :** Utilisez un logiciel de dessin vectoriel tel que *Inkscape*(https://inkscape.org/) (Ou bien autre logiciel vectoriel de même type) pour numériser votre dessin. Assurez-vous de respecter les dimensions et les proportions de votre dessin manuel.
 
 3. **Documentation du Projet :** Connectez-vous au portail [https://fabmanager.lf2l.fr](https://fabmanager.lf2l.fr). Documentez toutes les étapes de votre projet sur Fabmanager. Incluez des descriptions détaillées de votre processus de conception
+  - Nom du projet.
+  - Que représente l'objet ?
+  - Quelles sont les étapes de réalisation du projet ?
+  - Quels logiciels ont été nécessaires  ?
+  - Quelles difficultés ont été rencontrées et comment ont-elles été surmontées ?
+  - Le projet fonctionne-t-il comme prévu ?
+  - Quelles améliorations pourraient être apportées pour une version 2?
 
 
