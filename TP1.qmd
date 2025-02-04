@@ -14,8 +14,10 @@ format:
      - bottom=25mm
      - right=20mm     
     number-sections: true
-    colorlinks: true    
-    include-in-header:
+    colorlinks: true  
+    template-partials: 
+     - assets/before-body.tex      
+    include-in-header:    
       - text: |
           \usepackage{tikz}
           \usepackage{fancyhdr}
@@ -34,22 +36,13 @@ format:
 \thispagestyle{fancy}
 
 
-\vspace{-2cm}
 ::: {.callout-tip}
 ## **Objectif**
-**Vous êtes entrepreneur.e**. Donc, L'objectif de cet exercice est de concevoir un logo créatif et professionnel pour votre entreprise.
-Le logo doit être distinctif et mémorable. 
+**Vous êtes entrepreneur.e**. Donc, L'objectif de cet exercice est de concevoir une petite lampe personalisé. 
+La lampe doit être distinctive et mémorable. 
 :::
 
 # Instructions :
-
-Définir: 
-
-1. Nom de l'Entreprise: ___
-1. Les valeurs de l'entreprise: ______
-1. Spécialisée dans les solutions du: ______
-1. Characteristiques que le font unique dans le marche: ____
-
 
 **1. Dessinez le logo à la mains:** 
 

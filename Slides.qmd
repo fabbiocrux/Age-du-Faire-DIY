@@ -5,7 +5,7 @@ author:
 subtitle: 'An introduction'
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
-date: 12-03-2023
+date: 04-02-2025
 
 format:
   revealjs:
@@ -124,10 +124,6 @@ countdown(minutes = 10, font_size = "2.5em", color_background="#AED6F1")
 
  
 
-
-
-
-
 ## Why Prototyping Matters ? {.center}
 
 ::: {.columns}
@@ -234,7 +230,7 @@ Designers, as well as managers, developers, customers and end users, can use the
 
 
 
-## Step 1: Draw you totem
+## Step 1: Draw you object
 
 
 ![](figures/Design.png){width="80%" fig-align="center"}
@@ -256,61 +252,106 @@ countdown(minutes = 5, font_size = "2.5em", color_background="#AED6F1")
 ```
 
 
+## Step 3 : Take a photo of the rectangle 
 
-## Step 3: Import and adjust the document 
-
-The size needs to be $100x100~mmm$ max
-
-![](figures/Inkscape-01.png){width="80%" fig-align="center"}
+![](Inkscape/Fabio.jpg){width="80%" fig-align="center"}
 
 
+## Step 4: Open Inkscape and make sure the size canvas
 
-## Step 4: Crop your image
+:::{layout="[30,70]" layout-valign="center"}
 
-![](figures/Inkscape-02.png){width="80%" fig-align="center"}
+**Make the size** `100X100mm`
+
+![](figures/inkscape/01.png){width="90%" fig-align="center"}
+:::
 
 
-## Step 4: Vectorize your image 
 
-![](figures/Inkscape-03.png){width="80%" fig-align="center"}
+## Step 5: Import the photo 
 
-:::aside
+
+:::{layout="[30,30, 30]" layout-valign="center"}
+
+![](figures/inkscape/02.png){width="80%" fig-align="center"}
+
+![](figures/inkscape/03.png){width="90%" fig-align="center"}
+
+![](figures/inkscape/04.png){width="90%" fig-align="center"}
+:::
+
+⚠️ Probably the photo will be larger than the canvas size! 
+
+## Step 6: Reduce the image size to the canvas
+
+
+![](figures/inkscape/05.png){width="90%" fig-align="center"}
+
+
+## Step 7: Vectorize the image
+
+
+:::{layout="[40,60]" layout-valign="center"}
+
+![](figures/inkscape/06.png){width="90%" fig-align="center"}
+
+![](figures/inkscape/07.png){width="90%" fig-align="center"}
+
+:::
+
+
 Additional DIY 🎥 Youtube tutorials if you need:
 
 - [https://youtube.com/watch?v=aVPV6AtjGBg](https://youtube.com/watch?v=aVPV6AtjGBg)
 - [https://www.youtube.com/watch?v=i6s_iOVIxUA](https://www.youtube.com/watch?v=i6s_iOVIxUA)
+- [https://www.youtube.com/watch?v=wiqUrzzHszI&t=690s](https://www.youtube.com/watch?v=wiqUrzzHszI&t=690s)
 
-:::
+## Step 8: Personalize your prototype
 
-## Step 5: Prepare your image for laser-cut
+- 🔴 Red color : Cutting
+- 🔵 Blue color: Graving
 
-- Red color : Cutting
-- Blue color: graving
+
+![](figures/inkscape/08.png){width="90%" fig-align="center"}
+
+
+## Step 8: Prepare your image for laser-cut
 
 ![](figures/Inkscape-04.png){width="80%" fig-align="center"}
 
-## Step 6: Connect to Fabmanager
+## Step 9: Connect to Fabmanager to connect to Laser-cut
+
+Vous devez etre conneztez au Réseaux: **eduroam**
 
 [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
 ![](figures/fabmanager-00.png){width="80%" fig-align="center"}
 
 
-## Exercise 2: Vectorize your photo
-
-![](figures/Inkscape-05.png){width="70%" fig-align="center"}
+## Step 10: Fabricate!
 
 
-:::{.aside}
-Tutorial 🎥 Youtube: [https://www.youtube.com/watch?v=wiqUrzzHszI&t=690s](https://www.youtube.com/watch?v=wiqUrzzHszI&t=690s)
+:::{layout="[50,50]" layout-valign="center"}
+
+
+:::{}
+**BLUE**
+
+![](figures/laser/Blue.png){width="90%" fig-align="center"}
+
+[https://100.75.144.76:2402/app/manage](https://100.75.144.76:2402/app/manage)
 :::
 
 
+:::{}
+**ROSE**
 
+![](figures/laser/ROSE.png){width="90%" fig-align="center"}
 
+[https://100.75.144.77:2402/app/manage](https://100.75.144.77:2402/app/manage)
+:::
 
-
-
+:::
 
 
 # Engineering and  'Âge du Faire / DIY'
