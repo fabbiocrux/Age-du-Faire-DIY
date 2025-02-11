@@ -5,7 +5,7 @@ author:
 subtitle: 'An introduction'
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
-date: 04-02-2025
+date: 11-02-2025
 
 format:
   revealjs:
@@ -69,6 +69,8 @@ library(countdown)
 ![](figures/Documentate.png){width="100%" fig-align="center"} 
 :::
 
+
+## What is Prototyping for you? {.center}
 
 
 ## but first, lets *'esquissé'*
